@@ -66,19 +66,14 @@ Cover topics within next two weeks to ensure that the contributor is onboarded p
 
 ### Day 2-3: (Saturday - Sunday)
 - [ ] Complete First-Timer Task
-  - [ ] Issue Breakdown
-    * Issues labelled “first-timers-only”
-  - [ ] Task
-  - [ ] Wait for Manager Response
-    * Watch Webinars
+   * Issue Breakdown
+   * Issues labelled “first-timers-only”
+   * Wait for Manager Response
+- [ ] Watch Webinars
 
 ### Day 4 (Monday):
-- [ ] Meeting w/ Manager
-  * Manager should have sent you their calendly
-    * Schedule a one-on-one through Calendly for Day 8-9
-  * Meeting w/ Manager:
-    * Workflow / Epics
-    * Beginner task
+- [ ] Schedule meeting with Manager
+  * Schedule a 1:1 meeting through Calendly for Day 8-9
 
 ### Day 5 (Tuesday):
 - [ ] Catch up
@@ -88,12 +83,11 @@ Cover topics within next two weeks to ensure that the contributor is onboarded p
 - [ ] Send greeting message to Slack [channel name]
 
 ### Day 8-9:
-- [ ] Complete 1:1 with manager
-  * Take meeting notes on GitHub
+- [ ] Complete 1:1 with Manager
+- [ ] Schedule meeting with Onboarding
+- [ ] Take meeting notes on GitHub during/after meeting
 - [ ] Set up meeting with onboarding for Day 12-14
 - [ ] Set up follow up 1:1 with manager for Day 12-14
 
 ### Day 12-14:
-* Complete 1:1 with onboarding
-* Complete 1:1 with manager (if significant issues: onboarding would join)
-  * Formal Workflow Intro
+- [ ] Complete 1:1 with Onboarding
