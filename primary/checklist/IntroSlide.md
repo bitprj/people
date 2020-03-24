@@ -10,8 +10,7 @@
   - [ ] Grades
   - [ ] Subject (ex. physics, biology, chemistry, geology, etc.)
   - (Example format: Biology Grades K-1)
-  - [ ] Font "Nunito"
-  - [ ] Font size 28
+  - [ ] Font "Nunito" + Font size 28
   - [ ] Subject in color white
   - [ ] Grades in Bit Blue (008CFF)  
   
