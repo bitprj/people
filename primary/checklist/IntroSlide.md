@@ -1,5 +1,5 @@
 * Title
-  - Centered 
-  - font “Nunito” 
-  - font size 52 
-  - in the color black
+  - [ ] Centered 
+  - [ ] Font “Nunito” 
+  - [ ] Font size 52 
+  - [ ] in the color black
