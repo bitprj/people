@@ -1,5 +1,6 @@
 # People Management
 **Status:** open
+
 ![](/.gitbook/assets/people-team-4.png)
 
 ## Responsibilities 
