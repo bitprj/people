@@ -10,4 +10,4 @@
   - [ ] Color: black
   - [ ] List amount of material per student or per group
   - [ ] Be very specific about the name of the material
-  - [ ] Arrange this slide to be the 3rd slide
+  - [ ] Arrange this slide to be the 2nd to the last slide
