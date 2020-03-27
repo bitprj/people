@@ -18,4 +18,4 @@
   - [ ] Color of text: Bit Blue (008CFF)
   - [ ] Bold title of each standard
   - [ ] Standard description should be in Work Sans, font size 18. black color
-  - [ ] Move NGSS slide to the second to the last slide
+  - [ ] Move NGSS slide to the 3rd to the last slide
