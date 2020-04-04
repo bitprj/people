@@ -10,17 +10,19 @@ assignees: winniezhang-23
 ## Attend each meeting and collect feedback:
 **Collect detailed notes in all meetings in GitHub**
 **Ensure that all members of the team are in the feedback meeting (check with manager beforehand)**
+- [ ] DevRel Managers (Kevin)
+- [ ] PrimaryEd (Jing)
+- [ ] People
+- [ ] Marketing
+- [ ] Design
+- [ ] Engineering (Bryan W)
+- DevRel Teams:
 - [ ] Jason L
 - [ ] Michelle H
 - [ ] Sarah G
 - [ ] Owen G
 - [ ] Jeff C
 - [ ] Ismail
-- [ ] PrimaryEd
-- [ ] People
-- [ ] Marketing
-- [ ] Design
-- [ ] Engineering
 
 Discuss the following:
 - General feedback
