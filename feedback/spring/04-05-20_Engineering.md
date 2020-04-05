@@ -1,0 +1,4 @@
+- They think meetings were really helpful, should have more meetings in the future.
+- Should introduce the big picture to Jason, the new member of the team
+- Stay on track for the meetings
+- manager of the team kind of left out on manager meetings, feels not really sure if he is the manager of the team, should work on more to improve this kind of issue.
