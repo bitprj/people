@@ -1,10 +1,12 @@
 
 # Meeting Purpose : collecting feedback after a project
 
-## Discussion Points:
-
 **Describe the project:**
+
+*The participates of the project, purpose and content of the project*
 * state here
+
+## Discussion Points:
 
 **What do you think was great during the Process?**
 * list here
