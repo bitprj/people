@@ -1,4 +1,4 @@
 - They think meetings were really helpful, should have more meetings in the future.
 - Should introduce the big picture to Jason, the new member of the team
 - Stay on track for the meetings
-- manager of the team kind of left out on manager meetings, feels not really sure if he is the manager of the team, should work on more to improve this kind of issue.
+- manager of the team being assigned work but not really involved in the meeting to discuss the work. Should work on to make sure that all the managers are on the same page. 
