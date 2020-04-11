@@ -1,5 +1,12 @@
 # Feedbacks
-*List the feedbacks down here by categories*
+
+## Workflow when collecting feedbacks
+* Ask about is there anything not going well
+* Ask about is anything done well in the team
+* Make sure to tell the group members they could come up to you anytime when they realized something isn't going well to discuss
+* At the end of the meeting, make sure the manager knows about the road map and also introduced to their group member
+
+*Attend weekly meetings and list the feedbacks down here by CATEGORIES*
 
 **Category 1(Edit)**
 * list here 
