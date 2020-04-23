@@ -17,8 +17,16 @@
   deadline:
 
   - [ ] manager approval
+  
+- [ ] meeting with Learning and Development Manager
 
 - [ ] [task 3]
+
+  deadline:
+
+  - [ ] manager approval
+  
+- [ ] [task 4]
 
   deadline:
 
