@@ -1,12 +1,30 @@
 # Feedbacks
 
 ## Workflow when collecting feedbacks
-* Ask about is there anything not going well
-* Ask about is anything done well in the team
-* Make sure to tell the group members they could come up to you anytime when they realized something isn't going well to discuss
-* At the end of the meeting, make sure the manager knows about the road map and also introduced to their group member
 
-*Attend weekly meetings and list the feedbacks down here by CATEGORIES*
+**TEAM MEETING**
+
+*How is your communication between each other? How do you guys feel about being in this team?
+
+*Is there any misunderstanding about assigning works? Do you all know what you need to work on?
+
+*Do you guys have anything that you noticed isn’t going well, or do you have any concerns or frustrations going on right now?
+
+*Is there anything that has been going well in your team? That you suggest other groups could also do it?
+
+*Is there anything that is getting better but still needs more work on?
+
+**NEW MEMBER**
+
+*Is there any new member in the team? 
+
+*How was your onboarding experience? 
+
+*What do you think about the work loaded?  
+
+*Do you have any suggestions that could make our onboarding process better? It could be anything that you have noticed that was unclear or confuses you.
+
+*Do you all have other things to comment on?
 
 **Category 1(Edit)**
 * list here 
