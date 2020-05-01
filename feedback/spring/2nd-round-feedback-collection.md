@@ -28,24 +28,26 @@ Do you all have other things to comment on?
 
 *Attend weekly meetings and list the feedbacks down here by CATEGORIES*
 
+* OKRs are helpful since it gave a clear direction of what need to complete in a week and also in a month, helps with time management. 
+
+**GitHub Issue**
+* A lot of people have point out that navigating GitHub is really hard. Suggestion: have a simpler to-do app that could have people assign work and have a clear calendar with all the assignments need to be done would be really helpful. Also simplify the meeting notes template. 
+
+
+**Onboarding**
+* New members suggest to condense the content of the webinars to make it shorter. (Diversity and feedback webinars had been point out)
+
+* Extend the dealine to complete the onboarding process, the work is hard to complete in 3-4 days. 
+*Suggestion: seperate the onboarding process into different parts, so new members don't see a big list of tasks that need to be complete and get scared. Give an appropriate timeline to finish each part. When finished, check in with their managers and managers could give them the 2nd part.*
+
+* The template of onboarding should be simplified into the lead part and member part. Before the onboarding lead to actually onboarding someone, it would be helpful to have a meeting with the lead to go through the checklist first.
+
+**Outreach**
+* IMC: Twitter team is concerned about when contacting the professors, they are not replying. 
+* PrimaryEd: Parents that we reach out for feedback are not answering us. My teammate points out that we could have a simpler google form that contains short answers which only take about 2 minutes to fill out.
+
 **Writing Team**
-
 * So far, the directions of the tasks being assigned weren't really clear, so there is a lot of confusion during the process of completing the tasks. They suggest that having all the directions and goals either written on a list or discussed during a meeting would be really helpful for everyone in the team.
-
-* They felt that navigating the GitHub was still kind of hard for non-technical people, even with the tutorial. Since everyone has a tight schedule, it would be hard to have more time to practice using it.
-
-* Onboarding process was really detailed and having a lot of information actually helped to learn more about the Bit Project. But the Webinars are kind of long, and they suggest condense the content to make it shorter. (Especially the diversity and feedback one)
-
-* The template of onboarding is kind of unclear, it is very long and hard to figure out which one is for the lead and which one is for the member. Before the onboarding lead to actually onboarding someone, it would be helpful to have a meeting with the lead to go through the checklist first.
-
-
-**Engineering Team**
-* The new member of the engineering department suggested having a tutorial on MDX.
-
-**IMC:Twitter**
-* New team formed, still need to work more on to ensure everyone in the team knows about what to work on
-* I noticed that people in the team is not willing to speak up
-* New member suggest to extend the onboarding process deadline, they believe the work is kind of hard to finish in 3-4 days.
 
 
 ## Action Plan:
