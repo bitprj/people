@@ -11,7 +11,7 @@ assignees: winniezhang-23
 With members coming and going, our platforms and applications remain cluttered with inactive members. We are unsure of who is still a member and who has left. This outline is to ensure a smooth transition for both the offboarding member and the people team when members decide to leave. 
 
 DRI: @winniezhang-23
-
+@[username of member that needs to be offboarded]
 - DRI please review the eduflow for more clarification 
 
 ## Director/Manager Tasks
