@@ -3,7 +3,7 @@ name: 'Offboarding Procedure '
 about: Directors/Managers if you know anyone that needs to offboarded please use this
   issue
 title: "[Name of Individual that needs to be Offboarded]"
-labels: ''
+labels: Offboarding
 assignees: winniezhang-23
 
 ---
