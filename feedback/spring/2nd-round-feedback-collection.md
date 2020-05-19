@@ -47,11 +47,10 @@ Do you all have other things to comment on?
 * PrimaryEd: Parents that we reach out for feedback are not answering us. My teammate points out that we could have a simpler google form that contains short answers which only take about 2 minutes to fill out.
 
 **Writing Team**
-* So far, the directions of the tasks being assigned weren't really clear, so there is a lot of confusion during the process of completing the tasks. They suggest that having all the directions and goals either written on a list or discussed during a meeting would be really helpful for everyone in the team.
+* So far, the directions of the tasks being assigned weren't really clear, so there is a lot of confusion during the process of completing the tasks. They suggest that having all the directions and goals either written on a list or discussed during a meeting would be really helpful for everyone in the team. (Daniel already find a way to handle this)
 
 **Backend Engineering meeting**
-* some new members are not responding to Bryan, talk to Shreya about what he should do right now
-* new member did not get the chance to go to the last welcome webinar, should he attend the one hosting this Monday, tomorrow?
+* some new members are not responding to Bryan, talk to Shreya about what he should do right now (solved with 24 hr rule)
 
 ## Action Plan:
 *Actions on how to solve these issues, deadlines*
